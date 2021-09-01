@@ -8,7 +8,6 @@ I needed to fork this repo to create my own branches, or tags, while working thr
 
 I'm learning intermediate PHP, and Fullstack Web Development.
 
-Learning Symfony, because it used in many other PHP projects, e.g. the TYPO3 console.
-
+This React-JS repo is a part of the Udemy Course.
 
 knb, 2021
